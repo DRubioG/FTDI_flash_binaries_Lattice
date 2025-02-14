@@ -3,6 +3,7 @@
 
 # FT2232
 [jtag_lattice.conf](./binaries/FT2232/jtag_lattice.conf) (UART + JTAG)
+[ft2232_2xuart.conf](./binaries/FT2232/ft2232_2xuart.conf) (2x UART)
 
 Other repos:
 - Xilinx: https://github.com/DRubioG/FTDI_flash_binaries_Xilinx
